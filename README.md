@@ -1,9 +1,8 @@
 - Hi, I’m Yu
-- I’m interested in back-end, full stack development.
+- I’m interested in back-end development.
 - I am proficient in :
-  - Language: Java, Scala, JavaScript, TypeScript, C, C++, PostgreSQL, Bash
-  - Tools& Technology: Git, Docker, Node.js, Spring Boot, Cmake, Make
-- I’m currently learning React, GraphQL
+  - Language: Java, Scala, JavaScript, TypeScript, C, C++, PostgreSQL
+  - Tools& Technology: Git, Docker, Node.js, Spring Boot
 
 <!---
 redpandaQAQ/redpandaQAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
